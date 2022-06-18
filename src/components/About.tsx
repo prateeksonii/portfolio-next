@@ -2,7 +2,7 @@ import SectionHeader from "./SectionHeader";
 
 const About = () => {
   return (
-    <div>
+    <section>
       <SectionHeader title="About me" />
       <p className="mt-4 text-justify text-xl leading-relaxed">
         I&apos;m a software developer with 1.5 years of professional experience
@@ -12,7 +12,7 @@ const About = () => {
         develop them further. I am determined, enthusiastic and confident in
         working independently or with a team.
       </p>
-    </div>
+    </section>
   );
 };
 
