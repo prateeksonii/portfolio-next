@@ -21,7 +21,7 @@ const WorkExperience = () => {
             </div>
           </div>
           <p className="mt-4 text-lg">
-            <ul className="list-disc space-y-2">
+            <ul className="list-inside list-disc space-y-2">
               <li>
                 Recognized for top performance through promotion and selection
                 for high-priority tasks.
