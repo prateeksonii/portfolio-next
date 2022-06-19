@@ -20,7 +20,7 @@ const WorkExperience = () => {
               <div className="italic text-zinc-300">2021 - 2022</div>
             </div>
           </div>
-          <p className="mt-4 text-lg">
+          <div className="mt-4 text-lg">
             <ul className="list-inside list-disc space-y-2">
               <li>
                 Recognized for top performance through promotion and selection
@@ -37,7 +37,7 @@ const WorkExperience = () => {
                 Worked on AI-powered chat bot used by 5000+ employees daily.
               </li>
             </ul>
-          </p>
+          </div>
         </div>
       </div>
     </section>

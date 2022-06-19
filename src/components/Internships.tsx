@@ -15,7 +15,7 @@ const Internships = () => {
               <h4 className="text-xl font-bold">Software Developer</h4>
             </div>
           </div>
-          <p className="mt-4 text-lg">
+          <div className="mt-4 text-lg">
             <ul className="list-inside list-disc space-y-2">
               <li>
                 Enhanced preferences to improve user experience of existing
@@ -30,11 +30,10 @@ const Internships = () => {
                 blogs.
               </li>
             </ul>
-
-            <p className="mt-6">
-              <strong>Technologies used - </strong>ReactJS, GatsbyJS, Gitlab
-              CMS, TailwindCSS
-            </p>
+          </div>
+          <p className="mt-6">
+            <strong>Technologies used - </strong>ReactJS, GatsbyJS, Gitlab CMS,
+            TailwindCSS
           </p>
         </div>
       </div>
@@ -49,7 +48,7 @@ const Internships = () => {
               <h4 className="text-xl font-bold">Web Developer</h4>
             </div>
           </div>
-          <p className="mt-4 text-lg">
+          <div className="mt-4 text-lg">
             <ul className="list-inside list-disc space-y-2">
               <li>
                 Developed complete frontend for CMS panel used by the
@@ -58,11 +57,10 @@ const Internships = () => {
               <li>Redesigned official website using the mockups provided.</li>
               <li>Fixed 100+ bugs in existing codebase.</li>
             </ul>
-
-            <p className="mt-6">
-              <strong>Technologies used - </strong>ReactJS, Ant Design, Django,
-              Bootstrap, JQuery
-            </p>
+          </div>
+          <p className="mt-6">
+            <strong>Technologies used - </strong>ReactJS, Ant Design, Django,
+            Bootstrap, JQuery
           </p>
         </div>
       </div>

@@ -8,11 +8,11 @@ const Projects = () => {
         <div className="flex flex-col gap-2">
           <div className="text-2xl font-bold">Linkdexing</div>
         </div>
-        <div>
-          <p className="text-lg">
-            <p className="mb-2">
-              A web application where you can submit links for indexing
-            </p>
+        <div className="text-lg">
+          <p className="mb-2">
+            A web application where you can submit links for indexing
+          </p>
+          <div>
             <ul className="list-inside list-disc space-y-2">
               <li>
                 Designed, developed and deployed whole system for Linkdexing.com
@@ -27,10 +27,10 @@ const Projects = () => {
                 Added admin panel to manage users and view submitted links.
               </li>
             </ul>
-            <p className="mt-6">
-              <strong>Technologies used - </strong>ReactJS, NodeJS, MongoDB,
-              SendInBlue, Namecheap
-            </p>
+          </div>
+          <p className="mt-6">
+            <strong>Technologies used - </strong>ReactJS, NodeJS, MongoDB,
+            SendInBlue, Namecheap
           </p>
         </div>
       </div>
