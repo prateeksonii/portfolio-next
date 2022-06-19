@@ -10,9 +10,9 @@ const Projects = () => {
         </div>
         <div>
           <p className="text-lg">
-            <div className="mb-2">
+            <p className="mb-2">
               A web application where you can submit links for indexing
-            </div>
+            </p>
             <ul className="list-inside list-disc space-y-2">
               <li>
                 Designed, developed and deployed whole system for Linkdexing.com
