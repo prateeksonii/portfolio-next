@@ -3,6 +3,7 @@ import Head from "next/head";
 import About from "../components/About";
 import Header from "../components/Header";
 import Internships from "../components/Internships";
+import Projects from "../components/Projects";
 import WorkExperience from "../components/WorkExperience";
 
 const Home: NextPage = () => {
@@ -16,6 +17,7 @@ const Home: NextPage = () => {
         <About />
         <WorkExperience />
         <Internships />
+        <Projects />
       </main>
     </>
   );

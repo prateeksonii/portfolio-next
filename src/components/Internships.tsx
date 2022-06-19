@@ -32,8 +32,8 @@ const Internships = () => {
             </ul>
 
             <p className="mt-6">
-              <strong>Technologies used - </strong>ReactJS, Ant Design, Django,
-              Bootstrap, JQuery
+              <strong>Technologies used - </strong>ReactJS, GatsbyJS, Gitlab
+              CMS, TailwindCSS
             </p>
           </p>
         </div>
